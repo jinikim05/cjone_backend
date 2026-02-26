@@ -1,0 +1,17 @@
+# secrets
+.env
+**/.env
+
+# python
+__pycache__/
+*.pyc
+
+# data / artifacts
+*.csv
+*.xlsx
+*.pkl
+*.pkl*
+*.zip
+*.fig
+*.pdf
+core/cjone_exports/
